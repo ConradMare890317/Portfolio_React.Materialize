@@ -29,7 +29,7 @@ function IndexHeader() {
           className="page-header-image"
           style={{
             backgroundImage:
-              "url(" + require("assets/img/unnamed.jpg").default + ")",
+              "url(" + require("assets/img/HuyserProjects-bg-header.png").default + ")",
           }}
           ref={pageHeader}
         ></div>
@@ -38,10 +38,10 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/atom1.jpg").default}
+              src={require("assets/img/huyserProjects.png").default}
             ></img>
-            <h1 className="h1-seo">Conrad Maré</h1>
-            <h3>React-avist</h3>
+            <h1 className="h1-seo">Huyser Project</h1>
+            <h3>"We make good on our Promises"</h3>
           </div>
           <h6 className="category category-absolute">
             Designed by{"Conrad Maré"}

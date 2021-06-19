@@ -58,7 +58,7 @@ function IndexNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              Conrad Maré
+              Huyser Projects
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
               Full-Stack Web Dev.
